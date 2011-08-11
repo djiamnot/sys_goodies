@@ -1,0 +1,11 @@
+Goodies
+=======
+
+A collection of various things that I customized that are potentially overwritten by the system during updates/upgrades
+
+-   xdg-open /usr/bin/xdg-open
+    A script that opens files and urls under various window managers.
+    modified to allow for opening emacsclient when using the org-store-link or org-remember from chrome (and firefox?).
+    As per http://www.mail-archive.com/emacs-orgmode@gnu.org/msg33861.html but adapted for lxde, xfce and generic open
+    (the latter is untested)
+
